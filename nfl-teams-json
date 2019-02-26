@@ -1,0 +1,737 @@
+{
+    "team": "Buffalo Bills",
+    "id": 0,
+    "division": "est",
+    "city": "Orchard Park, NY",
+    "conference": "American Football Conference",
+    "president": "Kim Pegula",
+    "superbowls": "0",
+    "colors": "[Royal blue, red, white, navy blue]",
+    "established": "1959",
+    "logo": "assets/logos/BUF.svg",
+    "stadium":
+    {
+        "name": "New Era Field",
+        "capacity": "71608",
+        "location": "Orchard Park, New York",
+        "playing-surface": "A-Turf Titan 50",
+        "roof-type": "open",
+        "opened": "1973",
+        "picture": "assets/stadiums/bills.jpg"
+    },
+    "web": "http://www.buffalobills.com/"
+},
+{
+    "team": "Miami Dolphins",
+    "id": 1,
+    "division": "est",
+    "city": "Miami Gardens, FL",
+    "conference": "American Football Conference",
+    "president": "Stephen M. Ross",
+    "superbowls": "0",
+    "colors": "[Aqua, orange, white]",
+    "established": "1965",
+    "logo": "assets/logos/MIA.svg",
+    "stadium":
+    {
+        "name": "Hard Rock Stadium",
+        "capacity": "65326",
+        "location": "Miami Gardens, Florida",
+        "playing-surface": "Platinum TE Paspalum",
+        "roof-type": "open",
+        "opened": "1987",
+        "picture": "assets/stadiums/dolphins.jpg"
+    },
+    "web": "http://www.miamidolphins.com/"
+},
+{
+    "team": "New York Jets",
+    "id": 2,
+    "division": "est",
+    "city": "East Rutherford, NJ",
+    "conference": "American Football Conference",
+    "president": "Neil Glat",
+    "superbowls": "0",
+    "colors": "[Hunter green, white]",
+    "established": "1960",
+    "logo": "assets/logos/NYJ.svg",
+    "stadium":
+    {
+        "name": "MetLife Stadium",
+        "capacity": "82500",
+        "location": "East Rutherford, New Jersey",
+        "playing-surface": "UBU Sports Speed Series S5-M Synthetic Turf",
+        "roof-type": "open",
+        "opened": "2010",
+        "picture": "assets/stadiums/jets.jpg"
+    },
+    "web": "http://www.newyorkjets.com/"
+},
+{
+    "team": "New England Patriots",
+    "id": 3,
+    "division": "est",
+    "city": "Foxborough, MA",
+    "conference": "American Football Conference",
+    "president": "Jonathan Kraft",
+    "superbowls": "5",
+    "colors": "[Navy blue, red, silver, white]",
+    "established": "1959",
+    "logo": "assets/logos/NE.svg",
+    "stadium":
+    {
+        "name": "Gillette Stadium",
+        "capacity": "66829",
+        "location": "Foxborough, Massachusetts",
+        "playing-surface": "FieldTurf Revolution",
+        "roof-type": "open",
+        "opened": "2002"
+    },
+    "picture": "assets/stadiums/patriots.jpg",
+    "web": "http://www.patriots.com/"
+},
+{
+    "team": "Baltimore Ravens",
+    "id": 4,
+    "division": "north",
+    "city": "Baltimore, MD",
+    "conference": "American Football Conference",
+    "president": "Dick Cass",
+    "superbowls": "2",
+    "colors": "[Black, purple, metallic gold]",
+    "established": "1996",
+    "logo": "assets/logos/BAL.svg",
+    "stadium":
+    {
+        "name": "M&T Bank Stadium",
+        "capacity": "71008",
+        "location": "Baltimore, Maryland",
+        "playing-surface": "Bermuda grass",
+        "roof-type": "open",
+        "opened": "1998",
+        "picture": "assets/stadiums/ravens.jpg"
+    },
+    "web": "http://www.baltimoreravens.com/"
+},
+{
+    "team": "Cincinnati Bengals",
+    "id": 5,
+    "division": "north",
+    "city": "Cincinnati, OH",
+    "conference": "American Football Conference",
+    "president": "Paul DePodesta",
+    "superbowls": "0",
+    "colors": "[Brown, orange, white]",
+    "established": "1968",
+    "logo": "assets/logos/CIN.svg",
+    "stadium":
+    {
+        "name": "Paul Brown Stadium",
+        "capacity": "65515",
+        "location": "Cincinnati, Ohio",
+        "playing-surface": "UBU Speed Series S5-M Synthetic Turf",
+        "roof-type": "open",
+        "opened": "2000",
+        "picture": "assets/stadiums/bengals.jpg"
+    },
+    "web": "https://www.bengals.com/"
+},
+{
+    "team": "Cleveland Browns",
+    "id": 6,
+    "division": "north",
+    "city": "Cleveland, OH",
+    "conference": "American Football Conference",
+    "president": "-",
+    "superbowls": "",
+    "colors": "[]",
+    "established": "1946",
+    "logo": "assets/logos/CLE.svg",
+    "stadium":
+    {
+        "name": "FirstEnergy Stadium",
+        "capacity": "67895",
+        "location": "Cleveland, Ohio",
+        "playing-surface": "Kentucky bluegrass",
+        "roof-type": "open",
+        "opened": "1999",
+        "picture": "assets/stadiums/browns.jpg"
+    },
+    "picture": "assets/stadiums/",
+    "web": "http://www.clevelandbrowns.com/"
+},
+{
+    "team": "Pittsburgh Steelers",
+    "id": 7,
+    "division": "north",
+    "city": "Pittsburgh, PA",
+    "conference": "American Football Conference",
+    "president": "	Art Rooney II",
+    "superbowls": "0",
+    "colors": "[Black, gold]",
+    "established": "1933",
+    "logo": "assets/logos/PIT.svg",
+    "stadium":
+    {
+        "name": "Heinz Field",
+        "capacity": "68400",
+        "location": "Pittsburgh, Pennsylvania",
+        "playing-surface": "Kentucky bluegrass",
+        "roof-type": "open",
+        "opened": "2001",
+        "picture": "assets/stadiums/steelers.jpg"
+    },
+    "web": "http://www.steelers.com/ "
+},
+{
+    "team": "Houston Texans",
+    "id": 8,
+    "division": "south",
+    "city": "Houston, TX",
+    "conference": "American Football Conference",
+    "president": "Steve Underwood",
+    "superbowls": "0",
+    "colors": "[Navy, Titans blue, red, silver, white]",
+    "established": "2002",
+    "logo": "assets/logos/HOU.svg",
+    "stadium":
+    {
+        "name": "NRG Stadium",
+        "capacity": "72220",
+        "location": "Houston, Texas",
+        "playing-surface": "Hellas Matrix Turf",
+        "roof-type": "retractable",
+        "opened": "2002",
+        "picture": "assets/stadiums/texans.jpg"
+    },
+    "web": "http://www.houstontexans.com/"
+},
+{
+    "team": "Indianapolis Colts",
+    "id": 9,
+    "division": "south",
+    "city": "Indianápolis, IN",
+    "conference": "American Football Conference",
+    "president": "Chris Ballard",
+    "superbowls": "2",
+    "colors": "[Royal blue, white]",
+    "established": "1953",
+    "logo": "assets/logos/objw2sicao93opwtxzwn.png",
+    "stadium":
+    {
+        "name": "Lucas Oil Stadium",
+        "capacity": "67000",
+        "location": "Indianapolis, Indiana",
+        "playing-surface": "FieldTurf Classic HD",
+        "roof-type": "Retractable",
+        "opened": "2008",
+        "picture": "assets/stadiums/colts.jpg"
+    },
+    "web": "http://www.colts.com/"
+},
+{
+    "team": "Jacksonville Jaguars",
+    "id": 10,
+    "division": "south",
+    "city": "Jacksonville, FL",
+    "conference": "American Football Conference",
+    "president": "Mark Lamping",
+    "superbowls": "0",
+    "colors": "[Black, teal, gold]",
+    "established": "1995",
+    "logo": "assets/logos/JAX.svg",
+    "stadium":
+    {
+        "name": "EverBank Field",
+        "capacity": "69132",
+        "location": "Jacksonville, Florida",
+        "playing-surface": "Bermuda grass",
+        "roof-type": "open",
+        "opened": "1995",
+        "picture": "assets/stadiums/jaguars.JPG"
+    },
+    "web": "http://www.jaguars.com/"
+},
+{
+    "team": "Tennessee Titans",
+    "id": 11,
+    "division": "south",
+    "city": "Nashville, TN",
+    "conference": "American Football Conference",
+    "president": "-",
+    "superbowls": "",
+    "colors": "[]",
+    "established": "1960",
+    "logo": "assets/logos/TEN.svg",
+    "stadium":
+    {
+        "name": "Nissan Stadium",
+        "capacity": "69143",
+        "location": "Nashville, Tennessee",
+        "playing-surface": "Bermuda grass",
+        "roof-type": "open",
+        "opened": "1999",
+        "picture": "assets/stadiums/titans.jpg"
+    },
+    "web": "http://www.titansonline.com/"
+},
+{
+    "team": "Denver Broncos",
+    "id": 12,
+    "division": "west",
+    "city": "Denver, CO",
+    "conference": "American Football Conference",
+    "president": "Joe Ellis",
+    "superbowls": "0",
+    "colors": "[Orange, navy blue, white]",
+    "established": "1960",
+    "logo": "assets/logos/DEN.svg",
+    "stadium":
+    {
+        "name": "Broncos Stadium at Mile High",
+        "capacity": "76125",
+        "location": "Denver, Colorado",
+        "playing-surface": "Kentucky bluegrass",
+        "roof-type": "open",
+        "opened": "2001",
+        "picture": "assets/stadiums/broncos.jpg"
+    },
+    "web": "http://www.denverbroncos.com/"
+},
+{
+    "team": "Kansas City Chiefs",
+    "id": 13,
+    "division": "west",
+    "city": "Kansas City, MO",
+    "conference": "American Football Conference",
+    "president": "-",
+    "superbowls": "",
+    "colors": "[Red, gold, white]",
+    "established": "1960",
+    "logo": "assets/logos/KC.svg",
+    "stadium":
+    {
+        "name": "Arrowhead Stadium",
+        "capacity": "76416",
+        "location": "Kansas City, Missouri",
+        "playing-surface": "Bermuda grass",
+        "roof-type": "open",
+        "opened": "1972",
+        "picture": "assets/stadiums/chiefs.jpg"
+    },
+    "web": "http://www.chiefs.com/"
+},
+{
+    "team": "Los Angeles Chargers",
+    "id": 14,
+    "division": "west",
+    "city": "Los Ángeles, CA",
+    "conference": "American Football Conference",
+    "president": "-",
+    "superbowls": "0",
+    "colors": "[Navy blue, powder blue, white, gold]",
+    "established": "1960",
+    "logo": "assets/logos/LAC.svg",
+    "stadium":
+    {
+        "name": "StubHub Center",
+        "capacity": "27000",
+        "location": "Carson, California",
+        "playing-surface": "Bermuda grass",
+        "roof-type": "open",
+        "opened": "2003",
+        "picture": "assets/stadiums/chargers.jpg"
+    },
+    "web": "http://www.chargers.com/"
+},
+{
+    "team": "Oakland Raiders",
+    "id": 15,
+    "division": "west",
+    "city": "Oakland, CA",
+    "conference": "American Football Conference",
+    "president": "Marc Badain",
+    "superbowls": "3",
+    "colors": "[Silver, black]",
+    "established": "1960",
+    "logo": "assets/logos/OAK.svg",
+    "stadium":
+    {
+        "name": "Oakland-Alameda County Coliseum",
+        "capacity": "53286",
+        "location": "Oakland, California",
+        "playing-surface": "Bermuda grass",
+        "roof-type": "open",
+        "opened": "1966",
+        "picture": "assets/stadiums/raiders.JPG"
+    },
+    "web": "http://www.raiders.com/"
+},
+{
+    "team": "Dallas Cowboys",
+    "id": 16,
+    "division": "est",
+    "city": "Arlington, TX",
+    "conference": "National Football Conference",
+    "president": "Jerry Jones",
+    "superbowls": "5",
+    "colors": "[Navy blue, metallic silver, white, royal blue]",
+    "established": "1960",
+    "logo": "assets/logos/DAL.svg",
+    "stadium":
+    {
+        "name": "AT&T Stadium",
+        "capacity": "80000",
+        "location": "Arlington, Texas",
+        "playing-surface": "Hellas Matrix Turf",
+        "roof-type": "Retractable",
+        "opened": "2009",
+        "picture": "assets/stadiums/cowboys.jpg"
+    },
+    "web": "http://www.dallascowboys.com/"
+},
+{
+    "team": "New York Giants",
+    "id": 17,
+    "division": "est",
+    "city": "East Rutherford, NJ",
+    "conference": "National Football Conference",
+    "president": "John Mara",
+    "superbowls": "4",
+    "colors": "[Dark blue, red, white]",
+    "established": "1925",
+    "logo": "assets/logos/NYG.svg",
+    "stadium":
+    {
+        "name": "MetLife Stadium",
+        "capacity": "82500",
+        "location": "East Rutherford, New Jersey",
+        "playing-surface": "UBU Sports Speed Series S5-M Synthetic Turf",
+        "roof-type": "open",
+        "opened": "2010",
+        "picture": "assets/stadiums/jets.jpg"
+    },
+    "web": "http://www.giants.com/"
+},
+{
+    "team": "Philadelphia Eagles",
+    "id": 18,
+    "division": "est",
+    "city": "Filadelfia, PA",
+    "conference": "National Football Conference",
+    "president": "Don Smolenski",
+    "superbowls": "1",
+    "colors": "[Midnight green, silver, black, white]",
+    "established": "1933",
+    "logo": "assets/logos/PHI.svg",
+    "stadium":
+    {
+        "name": "Lincoln Financial Field",
+        "capacity": "69596",
+        "location": "Philadelphia, Pennsylvania",
+        "playing-surface": "Desso GrassMaster",
+        "roof-type": "open",
+        "opened": "2003",
+        "picture": "assets/stadiums/eagles.jpg"
+    },
+    "web": "http://www.philadelphiaeagles.com/"
+},
+{
+    "team": "Washington Redskins",
+    "id": 19,
+    "division": "est",
+    "city": "Landover, MD",
+    "conference": "National Football Conference",
+    "president": "Bruce Allen",
+    "superbowls": "0",
+    "colors": "[Burgundy, gold]",
+    "established": "1932",
+    "logo": "assets/logos/WAS.svg",
+    "stadium":
+    {
+        "name": "FedExField",
+        "capacity": "82000",
+        "location": "Landover, Maryland",
+        "playing-surface": "Bermuda grass",
+        "roof-type": "open",
+        "opened": "1997",
+        "picture": "assets/stadiums/redskins.jpg"
+    },
+    "web": "http://www.redskins.com/"
+},
+{
+    "team": "Chicago Bears",
+    "id": 20,
+    "division": "north",
+    "city": "Chicago, IL",
+    "conference": "National Football Conference",
+    "president": "Ted Phillips",
+    "superbowls": "1",
+    "colors": "[Navy blue, burnt orange, white]",
+    "established": "1919",
+    "logo": "assets/logos/CHI.svg",
+    "stadium":
+    {
+        "name": "Soldier Field",
+        "capacity": "61500",
+        "location": "Chicago, Illinois",
+        "playing-surface": "Kentucky bluegrass",
+        "roof-type": "open",
+        "opened": "1924",
+        "picture": "assets/stadiums/bears.jpg"
+    },
+    "web": "http://www.chicagobears.com/"
+},
+{
+    "team": "Detroit Lions",
+    "id": 21,
+    "division": "north",
+    "city": "Detroit, MI",
+    "conference": "National Football Conference",
+    "president": "Rod Wood",
+    "superbowls": "0",
+    "colors": "[Honolulu blue, silver]",
+    "established": "1929",
+    "logo": "assets/logos/DET.svg",
+    "stadium":
+    {
+        "name": "Ford Field",
+        "capacity": "65000",
+        "location": "Detroit, Michigan",
+        "playing-surface": "FieldTurf Classic HD",
+        "roof-type": "fixed",
+        "opened": "2002",
+        "picture": "assets/stadiums/lions.jpg"
+    },
+    "web": "http://www.detroitlions.com/"
+},
+{
+    "team": "Green Bay Packers",
+    "id": 22,
+    "division": "north",
+    "city": "Green Bay, WI",
+    "conference": "National Football Conference",
+    "president": "Mark H. Murphy",
+    "superbowls": "0",
+    "colors": "[Dark green, gold, white]",
+    "established": "1919",
+    "logo": "assets/logos/GB.svg",
+    "stadium":
+    {
+        "name": "Lambeau Field",
+        "capacity": "81435",
+        "location": "Green Bay, Wisconsin",
+        "playing-surface": "Desso GrassMaster",
+        "roof-type": "open",
+        "opened": "1957",
+        "picture": "assets/stadiums/packers.jpg"
+    },
+    "web": "http://www.packers.com/"
+},
+{
+    "team": "Minnesota Vikings",
+    "id": 23,
+    "division": "north",
+    "city": "Minneapolis, MN",
+    "conference": "National Football Conference",
+    "president": "-",
+    "superbowls": "0",
+    "colors": "[Purple, gold, white]",
+    "established": "1961",
+    "logo": "assets/logos/MIN.svg",
+    "stadium":
+    {
+        "name": "U.S. Bank Stadium",
+        "capacity": "66655",
+        "location": "Minneapolis, Minnesota",
+        "playing-surface": "UBU Speed Series S5-M Synthetic Turf",
+        "roof-type": "fixed",
+        "opened": "2016",
+        "picture": "assets/stadiums/vikings.jpg"
+    },
+    "web": "http://www.vikings.com/"
+},
+{
+    "team": "Atlanta Falcons",
+    "id": 24,
+    "division": "south",
+    "city": "Atlanta, GA",
+    "conference": "National Football Conference",
+    "president": "Rich McKay",
+    "superbowls": "0",
+    "colors": "[Red, black, silver, white]",
+    "established": "1966",
+    "logo": "assets/logos/ATL.svg",
+    "stadium":
+    {
+        "name": "Mercedes-Benz Stadium",
+        "capacity": "71000",
+        "location": "Atlanta, Georgia",
+        "playing-surface": "FieldTurf Revolution",
+        "roof-type": "retractable",
+        "opened": "2017",
+        "picture": "assets/stadiums/falcons.jpg"
+    },
+    "web": "http://www.atlantafalcons.com/"
+},
+{
+    "team": "Carolina Panthers",
+    "id": 25,
+    "division": "south",
+    "city": "Charlotte, NC",
+    "conference": "National Football Conference",
+    "president": "Tom Glick",
+    "superbowls": "",
+    "colors": "[Black, Panther blue, silver]",
+    "established": "1995",
+    "logo": "assets/logos/CAR.svg",
+    "stadium":
+    {
+        "name": "Bank of America Stadium",
+        "capacity": "75419",
+        "location": "Charlotte, North Carolina",
+        "playing-surface": "Bermuda grass",
+        "roof-type": "open",
+        "opened": "1996",
+        "picture": "assets/stadiums/panthers.jpg"
+    },
+    "web": "http://www.panthers.com/"
+},
+{
+    "team": "New Orleans Saints",
+    "id": 26,
+    "division": "south",
+    "city": "Nueva Orleans, LA",
+    "conference": "National Football Conference",
+    "president": "Dennis Lauscha",
+    "superbowls": "1",
+    "colors": "[Old gold, black, white]",
+    "established": "1967",
+    "logo": "assets/logos/NO.svg",
+    "stadium":
+    {
+        "name": "Mercedes-Benz Superdome",
+        "capacity": "73208",
+        "location": "New Orleans, Louisiana",
+        "playing-surface": "UBU Sports Speed Series S5-M Synthetic Turf",
+        "roof-type": "fixed",
+        "opened": "1975",
+        "picture": "assets/stadiums/saints.jpg"
+    },
+    "web": "http://www.neworleanssaints.com/"
+},
+{
+    "team": "Tampa Bay Buccaneers",
+    "id": 27,
+    "division": "west",
+    "city": "Tampa, FL",
+    "conference": "National Football Conference",
+    "president": "-",
+    "superbowls": "1",
+    "colors": "[Buccaneer red, pewter, Bay orange]",
+    "established": "1976",
+    "logo": "assets/logos/TB.svg",
+    "stadium":
+    {
+        "name": "Raymond James Stadium",
+        "capacity": "65890",
+        "location": "Tampa, Florida",
+        "playing-surface": "Bermuda grass",
+        "roof-type": "open",
+        "opened": "1998",
+        "picture": "assets/stadiums/buccaneers.JPG"
+    },
+    "web": "http://www.buccaneers.com/"
+},
+{
+    "team": "Arizona Cardinals",
+    "id": 28,
+    "division": "west",
+    "city": "Glendale, AZ",
+    "conference": "National Football Conference",
+    "president": "Michael Bidwill",
+    "superbowls": "0",
+    "colors": "[Cardinal red, black, white]",
+    "established": "1898",
+    "logo": "assets/logos/ARI.svg",
+    "stadium":
+    {
+        "name": "University of Phoenix Stadium",
+        "capacity": "63400",
+        "location": "Glendale, Arizona",
+        "playing-surface": "Bermuda grass",
+        "roof-type": "retractable",
+        "opened": "2006",
+        "picture": "assets/stadiums/cardinals.jpg"
+    },
+    "web": "http://www.azcardinals.com/"
+},
+{
+    "team": "Los Angeles Rams",
+    "id": 29,
+    "division": "west",
+    "city": "Los Ángeles, CA",
+    "conference": "National Football Conference",
+    "president": "Kevin Demhoff",
+    "superbowls": "1",
+    "colors": "[Millennium blue, white, Dijon yellow]",
+    "established": "1936",
+    "logo": "assets/logos/LA.svg",
+    "stadium":
+    {
+        "name": "Los Angeles Memorial Coliseum",
+        "capacity": "77500",
+        "location": "Los Angeles, California",
+        "playing-surface": "Bermuda grass",
+        "roof-type": "open",
+        "opened": "1923",
+        "picture": "assets/stadiums/rams.jpg"
+    },
+    "web": "http://www.therams.com/"
+},
+{
+    "team": "San Francisco 49ers",
+    "id": 30,
+    "division": "west",
+    "city": "Santa Clara, CA",
+    "conference": "National Football Conference",
+    "president": "Al Guido",
+    "superbowls": "5",
+    "colors": "[Red, gold]",
+    "established": "1946",
+    "logo": "assets/logos/SF.svg",
+    "stadium":
+    {
+        "name": "Levi's Stadium",
+        "capacity": "68500",
+        "location": "Santa Clara, California",
+        "playing-surface": "Bermuda grass / Perennial Ryegrass mixture",
+        "roof-type": "open",
+        "opened": "2014",
+        "picture": "assets/stadiums/49ers.jpg"
+    },
+    "web": "http://www.49ers.com/"
+},
+{
+    "team": "Seattle Seahawks",
+    "id": 31,
+    "division": "south",
+    "city": "Seattle, WA",
+    "conference": "National Football Conference",
+    "president": "Chuck Arnold",
+    "superbowls": "0",
+    "colors": "[College navy, Action green, Wolf grey]",
+    "established": "1976",
+    "logo": "assets/logos/SEA.svg",
+    "stadium":
+    {
+        "name": "CenturyLink Field",
+        "capacity": "68000",
+        "location": "Seattle, Washington",
+        "playing-surface": "FieldTurf Revolution",
+        "roof-type": "open",
+        "opened": "2002",
+        "picture": "assets/stadiums/seahawks.jpg"
+    },
+    "web": "http://www.seahawks.com/"
+}
