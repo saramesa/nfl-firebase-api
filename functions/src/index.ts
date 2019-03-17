@@ -19,17 +19,17 @@ const nflTeams = 'teams';
 export const webApi = functions.https.onRequest(main);
 
 
-// Add new contact
+// Add new team
 app.post('/teams', (req, res) => {
     firebaseHelper.firestore
         .creatNewDocument(db, nflTeams, req.body);
-    res.send('Create a new contact');
+    res.send('Create a new team');
 })
 
-// View a contact
-app.get('/teams/:contactId', (req, res) => {
+// View a team
+app.get('/teams/:team', (req, res) => {
     firebaseHelper.firestore
-        .getDocument(db, nflTeams, req.params.contactId)
+        .getDocument(db, nflTeams, req.params.team)
         .then(doc => res.status(200).send(doc));
 })
 
@@ -41,8 +41,8 @@ app.get('/teams', (req, res) => {
 })
 
 // Delete a team 
-app.delete('/teams/:contactId', (req, res) => {
+app.delete('/teams/:team', (req, res) => {
     firebaseHelper.firestore
-        .deleteDocument(db, nflTeams, req.params.contactId);
+        .deleteDocument(db, nflTeams, req.params.team);
     res.send('Contact is deleted');
 })
