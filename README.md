@@ -1,2 +1,2 @@
 # nfl-firebase-api
-https://nfl-api-saramesa.firebaseapp.com/api/v1/teams/
+https://nfl-api-saramesa.firebaseapp.com/api/teams/
